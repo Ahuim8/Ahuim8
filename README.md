@@ -1,6 +1,7 @@
 Hi, I'm Allen
 Backend Software Engineer based in Southern California, specializing in serverless pipelines, distributed systems, and cloud-native APIs on AWS.
 My path into engineering started in linguistics — and the crossover ran deeper than I expected. Syntax, semantics, and morphology aren't just linguistic terms; they map directly onto how programming languages are structured, how meaning is interpreted, and how data is modeled and transformed. Excelling in the analytical side of linguistics gave me a framework that made my first CS class click in ways I didn't anticipate. It also reframed how I see software itself — at its core, it's technologies communicating with each other, each with their own syntax and rules. Getting a backend to work cleanly with a frontend and a database isn't unlike translation: making sure meaning transfers accurately across systems speaking different languages.
+
 What I'm building toward
 
 LLM orchestration and RAG pipeline patterns
