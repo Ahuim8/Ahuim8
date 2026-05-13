@@ -15,11 +15,13 @@ My background shapes how I work as an engineer. Linguistics gave me a foundation
     Deepening Python for AI and data pipeline use cases
   
 
-🛠 Tech Stack
-Category	Technologies
-Languages	Node.js · TypeScript · Python · SQL
-Cloud	AWS Lambda · AWS CDK · S3 · SQS · DynamoDB
-Tools	Docker · Kafka · Prometheus · PostgreSQL · Playwright
+## 🛠 Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | Node.js · TypeScript · Python · SQL |
+| **Cloud** | AWS Lambda · AWS CDK · S3 · SQS · DynamoDB |
+| **Tools** | Docker · Kafka · Prometheus · PostgreSQL · Playwright |
 
 ✍️ Outside of Work
 
