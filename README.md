@@ -27,6 +27,4 @@ My background shapes how I work as an engineer. Linguistics gave me a foundation
 
 I collect fountain pens and am learning traditional calligraphy. When I'm  not at my desk I like getting out on my bike and exploring the neighborhood.
 
-Language nerd at heart — I pick apart songs I enjoy from other languages to learn vocabulary and grammar the slow, intentional way. Fountain pen enthusiast. I like understanding how everyday things work well enough to fix them myself.
-
 
