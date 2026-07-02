@@ -8,21 +8,21 @@
 
 ## 🧠 From Linguistics to Systems Architecture
 
-My transition from linguistics to software engineering wasn’t a career pivot—it was a logical progression[cite: 1]. Both fields govern how complex systems translate and pass data using strict structural syntax and logic. 
+My transition from linguistics to software engineering wasn’t a career pivot—it was a logical progression. Both fields govern how complex systems translate and pass data using strict structural syntax and logic. 
 
-My background deeply shapes how I approach software engineering[cite: 1]:
-* **Pattern Recognition:** I apply linguistic structural analysis to design predictable, clean RESTful APIs and decoupled microservices[cite: 1].
-* **Data Integrity:** Tracing semantic meaning translates directly to modeling rigorous database schemas and debugging distributed event-driven streams[cite: 1].
-* **Deterministic Logic:** I approach codebase architecture with a focus on strict rules, optimization, and clear communication boundaries between services[cite: 1].
+My background deeply shapes how I approach software engineering:
+* **Pattern Recognition:** I apply linguistic structural analysis to design predictable, clean RESTful APIs and decoupled microservices
+* **Data Integrity:** Tracing semantic meaning translates directly to modeling rigorous database schemas and debugging distributed event-driven streams.
+* **Deterministic Logic:** I approach codebase architecture with a focus on strict rules, optimization, and clear communication boundaries between services.
 
 ---
 
 ## 🛠️ Tech Stack & Ecosystem
 
-* **Languages & Backend:** TypeScript, JavaScript, Python, Node.js, Express, REST APIs[cite: 1]
-* **Cloud & DevOps:** AWS (Lambda, CDK, S3, SQS, DynamoDB), Docker, GitHub Actions (CI/CD)[cite: 1]
-* **Data & Observability:** Apache Kafka, PostgreSQL, Prometheus, Grafana[cite: 1]
-* **Testing & Tools:** Playwright, Jest, Vitest, pytest[cite: 1]
+* **Languages & Backend:** TypeScript, JavaScript, Python, Node.js, Express, REST APIs.
+* **Cloud & DevOps:** AWS (Lambda, CDK, S3, SQS, DynamoDB), Docker, GitHub Actions (CI/CD).
+* **Data & Observability:** Apache Kafka, PostgreSQL, Prometheus, Grafana.
+* **Testing & Tools:** Playwright, Jest, Vitest, pytest.
 
 ---
 
