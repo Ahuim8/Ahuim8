@@ -1,30 +1,33 @@
-Hi, I'm Allen 👋
+# Hi, I'm Allen 👋
 
-Backend Software Engineer based in Southern California, specializing in serverless pipelines, distributed systems, and cloud-native APIs on AWS.
+**Backend Software Engineer** based in Southern California, specializing in serverless pipelines, distributed systems, and cloud-native APIs. 
 
-🧠 From Linguistics to Code
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/allen-hui)
 
-My path into engineering started in linguistics, and the crossover in skills worked out better than I expected. Syntax and semantics are terms both disciplines share with the same spirit, syntax being the rules that make language, whether human or programming, valid or invalid; semantics being the meaning behind it, regardless of the form it takes. Having excelled in the analytical side of linguistics, I found computer science to be a natural next step. I worked on the technical foundations to become a software engineer, and the process of learning to code felt less like starting over and more like learning a new language with familiar underlying rules.
+---
 
-My background shapes how I work as an engineer. Linguistics gave me a foundation for finding structure, tracing how meaning moves through a system, and catching where communication breaks down. Those instincts come naturally to me and apply directly when designing APIs, modeling a database schema, or debugging why two services aren't interacting correctly. Outside of the technical skills, the thought processes aren't that different.
+## 🧠 From Linguistics to Systems Architecture
 
+My transition from linguistics to software engineering wasn’t a career pivot—it was a logical progression[cite: 1]. Both fields govern how complex systems translate and pass data using strict structural syntax and logic. 
 
-🔭 What I'm Building Toward
+My background deeply shapes how I approach software engineering[cite: 1]:
+* **Pattern Recognition:** I apply linguistic structural analysis to design predictable, clean RESTful APIs and decoupled microservices[cite: 1].
+* **Data Integrity:** Tracing semantic meaning translates directly to modeling rigorous database schemas and debugging distributed event-driven streams[cite: 1].
+* **Deterministic Logic:** I approach codebase architecture with a focus on strict rules, optimization, and clear communication boundaries between services[cite: 1].
 
-    LLM orchestration and RAG pipeline patterns
-    Deepening Python for AI and data pipeline use cases
-  
+---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack & Ecosystem
 
-| Category | Technologies |
-|---|---|
-| **Languages** | Node.js · TypeScript · Python · SQL |
-| **Cloud** | AWS Lambda · AWS CDK · S3 · SQS · DynamoDB |
-| **Tools** | Docker · Kafka · Prometheus · PostgreSQL · Playwright |
+* **Languages & Backend:** TypeScript, JavaScript, Python, Node.js, Express, REST APIs[cite: 1]
+* **Cloud & DevOps:** AWS (Lambda, CDK, S3, SQS, DynamoDB), Docker, GitHub Actions (CI/CD)[cite: 1]
+* **Data & Observability:** Apache Kafka, PostgreSQL, Prometheus, Grafana[cite: 1]
+* **Testing & Tools:** Playwright, Jest, Vitest, pytest[cite: 1]
 
-✍️ Outside of Work
+---
 
-I collect fountain pens and am learning traditional calligraphy. When I'm  not at my desk I like getting out on my bike and exploring the neighborhood.
+## 🔭 Current Focus & Growth
 
-
+I am actively deepening my expertise in the intersections of backend data infrastructure and machine learning orchestration:
+* 🚀 Advanced LLM orchestration and RAG pipeline engineering patterns.
+* 🐍 Scaling Python for high-throughput AI integration and data pipeline use cases.
